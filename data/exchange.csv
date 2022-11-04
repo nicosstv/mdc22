@@ -1,0 +1,49 @@
+"Official exchange rate:";04.11.2022;;;
+;;;;
+Valuta;Cod;Abr;Rata;Cursul
+"Coroana ceha";203;CZK;1;0,7657
+"Coroana daneza";208;DKK;1;2,5248
+"Coroana islandeza";352;ISK;10;1,2968
+"Coroana norvegiana";578;NOK;1;1,8164
+"Coroana suedeza";752;SEK;1;1,7183
+D.S.T.;960;XDR;1;24,5596
+"Denar macedonian";807;MKD;10;3,0479
+"Dinar kuweitian";414;KWD;1;62,1405
+"Dinar sirb";941;RSD;100;16,0228
+"Dirham E.A.U.";784;AED;1;5,2521
+"Dolar Hong Kong";344;HKD;1;2,4575
+"Dolar S.U.A.";840;USD;1;19,2909
+"Dolar australian";036;AUD;1;12,1272
+"Dolar canadian";124;CAD;1;13,9885
+"Dolar neozeelandez";554;NZD;1;11,0951
+"Dram armenesc";051;AMD;10;0,4886
+Euro;978;EUR;1;18,7903
+"Forint ungar";348;HUF;100;4,5990
+"Franc elvetian";756;CHF;1;19,0311
+"Hrivna ucraineana";980;UAH;1;0,5223
+"Kuna croata";191;HRK;1;2,4933
+"Lari georgian";981;GEL;1;7,0277
+"Lek albanez";008;ALL;10;1,5953
+"Leu romanesc";946;RON;1;3,8335
+"Leva bulgara";975;BGN;1;9,6077
+"Lira sterlina";826;GBP;1;21,7120
+"Lira turceasca";949;TRY;1;1,0360
+"Manat azer";944;AZN;1;11,3720
+"Manat turkmen";934;TMT;1;5,5117
+"Ringgit malayezian";458;MYR;1;4,0662
+"Rubla belarusa";933;BYN;1;7,7324
+"Rubla ruseasca";643;RUB;1;0,3103
+"Rupia indiana";356;INR;10;2,3273
+"Shekel israelian";376;ILS;1;5,4010
+"Som kirghiz";417;KGS;10;2,3102
+"Somoni tadjic";972;TJS;1;1,8992
+"Sum uzbek";860;UZS;100;0,1736
+"Tenghe kazah";398;KZT;10;0,4134
+"Won sud-coreean";410;KRW;100;1,3546
+"Yen japonez";392;JPY;100;13,0137
+"Yuan Renminbi chinezesc";156;CNY;1;2,6366
+"Zlot polonez";985;PLN;1;3,9872
+
+"Sursa datelor:";BNM
+Data:;04.11.2022
+Ora:;18:21

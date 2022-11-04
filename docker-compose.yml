@@ -1,0 +1,17 @@
+version: "3"
+services:
+  nifi-master:
+    hostname: nifi
+    container_name: nifi
+    image: 'apache/nifi:latest'
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+    ports:
+      - '9090:8080'
+    volumes:
+      - ./data:/var/data
+    networks:
+      - nifinetwork
+networks:
+  nifinetwork:
+    driver: bridge
